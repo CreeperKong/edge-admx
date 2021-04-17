@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<DOCUMENT Type="Advanced Installer" CreateVersion="17.7" version="18.0" Modules="architect" RootPath="." Language="en" Id="{A5F392EF-D3D3-476F-ADA9-04007856BA23}">
+<DOCUMENT Type="Advanced Installer" CreateVersion="17.7" version="18.1.1" Modules="architect" RootPath="." Language="en" Id="{A5F392EF-D3D3-476F-ADA9-04007856BA23}">
   <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
     <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
+    <ROW Property="AI_CURRENT_YEAR" Value="2021" ValueLocId="-"/>
     <ROW Property="ALLUSERS" Value="1"/>
     <ROW Property="ARPCOMMENTS" Value="Microsoft Edge Group Policy Files - Packed by CreeperKong" ValueLocId="*"/>
     <ROW Property="ARPHELPLINK" Value="https://github.com/CreeperKong/edge-admx"/>
@@ -11,10 +12,10 @@
     <ROW Property="ARPURLUPDATEINFO" Value="https://github.com/CreeperKong/edge-admx"/>
     <ROW Property="LIMITUI" MultiBuildValue="DefaultBuild:1"/>
     <ROW Property="Manufacturer" Value="Packed by CreeperKong"/>
-    <ROW Property="ProductCode" Value="1033:{35A7DD4A-A1EF-461D-9273-E0E8149B9A48} " Type="16"/>
+    <ROW Property="ProductCode" Value="1033:{838EA1A7-8130-47AB-9FC7-EEFA53E43540} " Type="16"/>
     <ROW Property="ProductLanguage" Value="1033"/>
     <ROW Property="ProductName" Value="Microsoft Edge Group Policy Files"/>
-    <ROW Property="ProductVersion" Value="2021.03.13" Type="32"/>
+    <ROW Property="ProductVersion" Value="2021.04.16" Type="32"/>
     <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
     <ROW Property="UpgradeCode" Value="{98E06A8A-65E1-48E1-98A7-F00B07247164}"/>
     <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
